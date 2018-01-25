@@ -1,0 +1,10 @@
+﻿  State.cpp
+  Sprite.cpp
+  main.cpp
+c:\users\gameuser\documents\rwmp3git\rwmp3\multistate spritesheet animation\main.cpp(36): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+c:\users\gameuser\documents\rwmp3git\rwmp3\multistate spritesheet animation\main.cpp(30): warning C4101: 'event': unreferenced local variable
+  Animation.cpp
+  Generating Code...
+     Creating library C:\Users\gameuser\Documents\RWMP3Git\RWMP3\Multistate Spritesheet Animation\x64\Debug\Multistate Spritesheet Animation.lib and object C:\Users\gameuser\Documents\RWMP3Git\RWMP3\Multistate Spritesheet Animation\x64\Debug\Multistate Spritesheet Animation.exp
+  Multistate Spritesheet Animation.vcxproj -> C:\Users\gameuser\Documents\RWMP3Git\RWMP3\Multistate Spritesheet Animation\x64\Debug\Multistate Spritesheet Animation.exe
+  Multistate Spritesheet Animation.vcxproj -> C:\Users\gameuser\Documents\RWMP3Git\RWMP3\Multistate Spritesheet Animation\x64\Debug\Multistate Spritesheet Animation.pdb (Partial PDB)

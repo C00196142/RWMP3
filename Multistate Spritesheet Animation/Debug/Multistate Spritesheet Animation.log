@@ -1,5 +1,2 @@
-﻿  main.cpp
-c:\users\gameuser\documents\rwmp3\multistate spritesheet animation\main.cpp(36): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
-c:\users\gameuser\documents\rwmp3\multistate spritesheet animation\main.cpp(30): warning C4101: 'event': unreferenced local variable
-  Multistate Spritesheet Animation.vcxproj -> C:\Users\gameuser\Documents\RWMp3\Multistate Spritesheet Animation\Debug\Multistate Spritesheet Animation.exe
-  Multistate Spritesheet Animation.vcxproj -> C:\Users\gameuser\Documents\RWMp3\Multistate Spritesheet Animation\Debug\Multistate Spritesheet Animation.pdb (Partial PDB)
+﻿  Multistate Spritesheet Animation.vcxproj -> C:\Users\gameuser\Documents\RWMp3\RWMP3\Multistate Spritesheet Animation\Debug\Multistate Spritesheet Animation.exe
+  Multistate Spritesheet Animation.vcxproj -> C:\Users\gameuser\Documents\RWMp3\RWMP3\Multistate Spritesheet Animation\Debug\Multistate Spritesheet Animation.pdb (Partial PDB)
